@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: #8b6c5c;
+    color: white;
+  }
+#h1{
+    font-size:80px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    margin-top: 50px;
+}
+#b1{
+    background-color: #white;
+    color: #6a4a3a;
+    font-family: 'Outfit', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    float:right;
+    margin-top: -40px;
+  }
